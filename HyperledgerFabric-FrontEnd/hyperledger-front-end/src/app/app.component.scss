@@ -1,0 +1,22 @@
+.navigation-menu {
+  height: 120px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  height: 80px;
+  width: 200px
+}
+
+.menu-item {
+  width: 50%;
+  margin-left: auto;
+}
+
+.navigation-menu-container {
+  padding: 0 5vw;
+  background-color: white;
+
+}

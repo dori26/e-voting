@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperledgerFabricApi", "HyperledgerFabricApi\HyperledgerFabricApi.csproj", "{6DE7E41B-5C97-4BBE-AEBB-3F08434B9EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE7E41B-5C97-4BBE-AEBB-3F08434B9EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE7E41B-5C97-4BBE-AEBB-3F08434B9EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE7E41B-5C97-4BBE-AEBB-3F08434B9EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE7E41B-5C97-4BBE-AEBB-3F08434B9EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

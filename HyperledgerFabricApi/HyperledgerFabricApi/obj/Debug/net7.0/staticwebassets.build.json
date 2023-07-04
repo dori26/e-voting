@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KZny0UWGj/Z9TmKiWddq+1ED9C33ZwnVIRb9mGqDgHw=",
+  "Source": "HyperledgerFabricApi",
+  "BasePath": "_content/HyperledgerFabricApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
